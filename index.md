@@ -1,27 +1,27 @@
 ---
 layout: default
-title: Дамир - Стекло
+title: Projects
 ---
 
-# Добро пожаловать!
+# My Projects
 
-Я - Дамир Ситказиев, профессиональный монтажник стёкол.
+<div class="row">
+  <div class="col-md-6">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Project 1: [Project Name](http://example.com)</h5>
+        <p class="card-text">A brief description of Project 1.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card mb-4 shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">Project 2: [Project Name](http://example.com)</h5>
+        <p class="card-text">A brief description of Project 2.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
-![image](https://github.com/vladimirpresnov/damirconstruction/assets/173400385/1818a6aa-03a0-48bb-a2f3-31cabade4c8e)
-
-## Обо мне
-
-[About Me](about.md)
-
-Моя основная работа в сфере стекол. Мои проекты влючают в себя:
-- Работу на поездах РЖД
-- Душевые кабины для саун
-- Стеклянные заборы
-
-### Ознакомиться с моими проектами внимательнее вы можете по ссылке:
-### Наши документы: <ссылка>
-
-
-## Связаться
-Эл. почта: damir_sytkaziev@yandex.ru
-Телефон: +79999999999
+[Home](index.html) | [About Me](about.html)
